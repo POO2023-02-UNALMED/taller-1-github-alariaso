@@ -1,0 +1,1 @@
+Sí ocurrió un problema: no se pudo hacer un commit con la creación de la carpeta "archivos" porque git no admite agregar carpetas vacías.
