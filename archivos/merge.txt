@@ -1,0 +1,1 @@
+Ahora sí se pudo hacer un commit porque la carpeta ya no estaba vacía ya que se creó el archivo respuesta.txt adentro de esa carpeta.
