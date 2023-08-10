@@ -1,3 +1,5 @@
 Nombre: Alejandro
 Edad: 20 años
 Aspiraciones con la materia: Aprender a crear programas robustos usando la Programación Orientada a Objetos
+Ahora sí se pudo hacer un commit porque la carpeta ya no estaba vacía ya que se creó el archivo respuesta.txt adentro de esa carpeta.
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque se crean conflictos que hay que resolver.
